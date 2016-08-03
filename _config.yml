@@ -1,0 +1,14 @@
+layout_spectrum: 0.18983527040109038
+typography_spectrum: 0.7764654301572591
+color:
+  brandStrength: 0.6033076890744269
+  lightness: 0.7487031095661223
+  saturation: 0.2811213538516313
+  rhythmicContrast: 0.6674357035662979
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: 8Wires
